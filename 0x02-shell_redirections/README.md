@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell riderection i/o
+echo: script that print hello wolrd on screen with newline
